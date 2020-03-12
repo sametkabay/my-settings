@@ -1,0 +1,99 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 2,
+    "terminal.integrated.rendererType": "dom",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.userWords": [
+        "DEVTOOLS",
+        "Similars",
+        "caparol",
+        "esnext",
+        "fortawesome",
+        "inmemory",
+        "odata",
+        "swiper"
+    ],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "python.pythonPath": "/usr/local/opt/python/bin/python3.7",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "files.associations": {
+        "*.html": "html"
+    },
+    "explorer.confirmDelete": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "git-commit",
+        "go",
+        "handlebars",
+        "haskell",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pug",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scala",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "editor.minimap.enabled": true,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "all",
+    "breadcrumbs.filePath": "off",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "breadcrumbs.enabled": false,
+    "git.autofetch": true,
+    "editor.formatOnPaste": true,
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true,
+    "prettier.insertPragma": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "cSpell.enableFiletypes": [
+        "!django-txt"
+    ],
+    "window.autoDetectColorScheme": true,
+    "explorer.compactFolders": false
+}
