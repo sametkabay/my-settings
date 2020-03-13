@@ -1,3 +1,5 @@
+** code --list-extensions **
+
 abusaidm.html-snippets
 burkeholland.simple-react-snippets
 christian-kohler.npm-intellisense
